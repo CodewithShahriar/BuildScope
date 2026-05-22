@@ -109,3 +109,8 @@ Before deploying, confirm the Worker name and environment settings in `wrangler.
 ## Notes
 
 BuildScope estimates are indicative planning tools. Final project budgets should be validated against current contractor pricing, permit requirements, site conditions, and professional review.
+
+## Contributors
+
+1. Macklin Adenine ([https://github.com/CodeCraftsman20](https://github.com/CodeCraftsman20))
+2. Abid Shahriar ([https://github.com/CodewithShahriar](https://github.com/CodewithShahriar))
