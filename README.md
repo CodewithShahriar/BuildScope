@@ -1,6 +1,6 @@
 # BuildScope
 
-BuildScope is a custom construction cost estimating application for San Francisco projects. It helps users model project scope, compare scenarios, review cost breakdowns, assess schedule and risk, and generate a polished estimate report from a modern web interface.
+BuildScope is a custom construction cost estimating application for San Francisco projects. It helps users model project scope, compare scenarios, review cost breakdowns, assess schedule and risk, and generate a polished estimate report from a modern web interface .
 
 ## Preview
 
