@@ -1,12 +1,8 @@
 {
-  "name": "buildscope-sf",
+  "name": "buildscope",
+  "version": "1.0.0",
+  "description": "Custom production web application for BuildScope.",
   "private": true,
-  "description": "BuildScope SF — estimate San Francisco construction costs with live estimates, breakdowns, timelines, and risk insights.",
-  "author": "BuildScope SF",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/CodeCraftsman20/buildscope-sf.git"
-  },
   "sideEffects": false,
   "type": "module",
   "scripts": {
