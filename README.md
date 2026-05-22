@@ -98,7 +98,7 @@ wrangler.jsonc      Cloudflare Worker configuration
 - `/breakdown` - detailed cost breakdown
 - `/compare` - scenario comparison
 - `/report` - project report preview
-- `/projects` - locally saved estimates
+- `/projects` - locally saved estimates.
 
 ## Deployment
 
