@@ -112,5 +112,6 @@ BuildScope estimates are indicative planning tools. Final project budgets should
 
 ## Contributors
 
-1. Macklin Adenine ([https://github.com/CodeCraftsman20](https://github.com/CodeCraftsman20))
-2. Abid Shahriar ([https://github.com/CodewithShahriar](https://github.com/CodewithShahriar))
+| Macklin Adenine | Abid Shahriar |
+| --- | --- |
+| [GitHub](https://github.com/CodeCraftsman20) | [GitHub](https://github.com/CodewithShahriar) |
