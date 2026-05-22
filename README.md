@@ -1,6 +1,6 @@
 # BuildScope
 
-BuildScope is a custom construction cost estimating application for San Francisco projects. It helps users model project scope, compare scenarios, review cost breakdowns, assess schedule and risk, and generate a polished estimate report from a modern web interface.
+BuildScope is a custom construction cost estimating application for San Francisco projects. It helps users model project scope, compare scenarios, review cost breakdowns, assess schedule and risk, and generate a polished estimate report from a modern web interface .
 
 ## Preview
 
@@ -24,7 +24,7 @@ BuildScope is a custom construction cost estimating application for San Francisc
 - Scenario comparison for finish tiers, sustainability upgrades, and fast-track scheduling.
 - Detailed line-item cost breakdown.
 - Report preview for sharing project assumptions and estimate outputs.
-- Browser-local saved projects.
+- Browser-local saved projects .
 - Responsive interface built for desktop and mobile use.
 
 ## Tech Stack
@@ -105,6 +105,16 @@ wrangler.jsonc      Cloudflare Worker configuration
 The app is configured for a Cloudflare-ready production build through Vite and TanStack Start. `npm run build` outputs the production assets into `dist/`, including the worker bundle generated for deployment.
 
 Before deploying, confirm the Worker name and environment settings in `wrangler.jsonc`.
+
+### Vercel
+
+This project includes `vercel.json` for static Vercel deployment.
+
+- Build command: `npm run build:vercel`
+- Output directory: `dist/client`
+- Route handling: all routes rewrite to `index.html`
+
+After pushing changes, redeploy the project on Vercel. If you configure settings manually in the Vercel dashboard, use the same build command and output directory above.
 
 ## Notes
 
