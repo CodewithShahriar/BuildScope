@@ -24,7 +24,7 @@ BuildScope is a custom construction cost estimating application for San Francisc
 - Scenario comparison for finish tiers, sustainability upgrades, and fast-track scheduling.
 - Detailed line-item cost breakdown.
 - Report preview for sharing project assumptions and estimate outputs.
-- Browser-local saved projects.
+- Browser-local saved projects .
 - Responsive interface built for desktop and mobile use.
 
 ## Tech Stack
