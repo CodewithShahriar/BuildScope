@@ -106,6 +106,16 @@ The app is configured for a Cloudflare-ready production build through Vite and T
 
 Before deploying, confirm the Worker name and environment settings in `wrangler.jsonc`.
 
+### Vercel
+
+This project includes `vercel.json` for static Vercel deployment.
+
+- Build command: `npm run build:vercel`
+- Output directory: `dist/client`
+- Route handling: all routes rewrite to `index.html`
+
+After pushing changes, redeploy the project on Vercel. If you configure settings manually in the Vercel dashboard, use the same build command and output directory above.
+
 ## Notes
 
 BuildScope estimates are indicative planning tools. Final project budgets should be validated against current contractor pricing, permit requirements, site conditions, and professional review.
